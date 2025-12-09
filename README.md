@@ -9,9 +9,11 @@ Este repositório contém todos os exercícios e projetos realizados durante o c
 O Full Stack Open é um curso gratuito e moderno que aborda tecnologias essenciais para desenvolvimento web fullstack, incluindo:
 
 - JavaScript moderno (ES6+)
+- Typescript
 - React (hooks, roteamento, testes)
 - Node.js com Express
 - Banco de dados MongoDB e consultas SQL básicas
+- Docker
 - Autenticação e autorização
 - Testes automatizados (Jest, Cypress)
 - Integração contínua, Docker e deploy
